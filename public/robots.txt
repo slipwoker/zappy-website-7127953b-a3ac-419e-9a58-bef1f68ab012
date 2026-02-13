@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mini-gifts-7127953b.zappy5.app/sitemap.xml
